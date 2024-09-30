@@ -1,0 +1,17 @@
+{
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.quickSuggestionsDelay": 1,
+    "editor.suggest.selectionMode": "never",
+    "emmet.useInlineCompletions": false,
+    "editor.inlineSuggest.enabled": true,
+    "terminal.integrated.suggest.quickSuggestions": false,
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": false,
+    "typescript.suggest.autoImports": false,
+    "typescript.suggest.enabled": false,
+    "javascript.suggest.autoImports": false,
+    "javascript.suggest.enabled": false,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "cSpell.showAutocompleteSuggestions": true
+}
